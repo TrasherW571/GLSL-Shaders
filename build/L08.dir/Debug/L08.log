@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(128): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(132): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(136): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\src\main.cpp(140): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  L08.vcxproj -> C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA3\L08\build\Debug\L08.exe
